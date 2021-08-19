@@ -21,5 +21,11 @@
 - Seguridad informática.
 - Analisis de datos.
 
-
+### Mesi
 ![Messi](https://github.com/Haatom/Laboratorio-1/blob/master/DavidPerez/imagem.jpg)
+
+
+#### Curso Realizado
+
+![curso1](https://github.com/Haatom/Laboratorio-1/blob/master/DavidPerez/Curso.PNG)
+![curso2](https://github.com/Haatom/Laboratorio-1/blob/master/DavidPerez/curso2.PNG)
