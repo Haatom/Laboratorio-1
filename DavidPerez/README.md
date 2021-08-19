@@ -20,3 +20,6 @@
 ##### Acerca de mis intereses
 - Seguridad informática.
 - Analisis de datos.
+
+
+![Messi](https://github.com/Haatom/Laboratorio-1/blob/master/DavidPerez/imagem.jpg)
