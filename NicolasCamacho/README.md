@@ -20,3 +20,13 @@ _" Estudiante de Ingenieria de Sistemas en la Escuela Colombiana de Ingenieria, 
 
 ![Mono](https://github.com/Haatom/Laboratorio-1/blob/master/NicolasCamacho/mono.jpg)
 
+
+
+#### Capturas de pantalla Learn Git Branching
+
+![Principal](https://github.com/Haatom/Laboratorio-1/blob/master/NicolasCamacho/Principal.png)
+
+![Remota](https://github.com/Haatom/Laboratorio-1/blob/master/NicolasCamacho/Remota.png)
+
+
+
